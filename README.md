@@ -16,5 +16,5 @@ cholesterol level, high blood pressure, stress can be identified as risk factors
 diseases.
 
 
----------------References----------------------
+
 [1].Who.int. 2020. Cardiovascular Diseases (Cvds). [online] Available at: <https://www.who.int/newsroom/fact-sheets/detail/cardiovascular-diseases-(cvds)> [Accessed 18 April 2020].
